@@ -1,0 +1,10 @@
+-- install express & express-generator globally : npm install -g express express-generator
+-- generate a website : express website_folder_name
+-- the following cmd will generate a website /mywebsite
+-- the generated website will contain the project folders
+-- /mywebsite npm install the required dependencies : npm install
+-- run : npm start
+-- jade parse the whole html/css/js to public
+-- create a unsaved html content /add bootstap
+-- html to jade convertor -- google
+-- paste the content to layout and save
